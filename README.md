@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuanDev-thaiNG
+- 👋 Hi, I’m QuanDev
 - 👀 I’m interested in game developer 
 - 🌱 I’m currently learning Information and Communication Technology University Thai Nguyen
 - 💞️ I’m looking to collaborate on Game developers
